@@ -1,10 +1,8 @@
 ### Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Saka**.
+I'm **Saka**, a CS student based in Saudi Arabia training to become an **Odoo Developer**.
 
-I design and build products end to end, with a focus on useful software, clear interfaces, thoughtful interactions, and the small details that make a product feel right. Most projects are built with React, Next.js, TypeScript, Tailwind CSS, and Motion.
-
-There are more than 100 public repos here, and privately.. probably well over 200 at this point.
+Coming from Python + React/Next.js, I'm now focused on Odoo: custom modules, ORM models, XML views, QWeb reports, and PostgreSQL-backed workflows across Sales, Inventory, and Accounting. I like useful business software, clear interfaces, and the small details that make an ERP feel right.
 
 #### Fun facts
 
