@@ -4,6 +4,8 @@ I'm **Saka**, a CS student based in Saudi Arabia training to become an **Odoo De
 
 Coming from Python + React/Next.js, I'm now focused on Odoo: custom modules, ORM models, XML views, QWeb reports, and PostgreSQL-backed workflows across Sales, Inventory, and Accounting. I like useful business software, clear interfaces, and the small details that make an ERP feel right.
 
+How to reach me: **saka404@protonmail.com**  
+
 #### Fun facts
 
 - I don’t like coffee or tea
@@ -26,18 +28,16 @@ Coming from Python + React/Next.js, I'm now focused on Odoo: custom modules, ORM
 <div align="center">
 
 ### 🛠️ Featured projects
-
 | Project | What it does | Stars |
 | --- | --- | --- |
-| [`opencodex`](https://github.com/Saka-CS/opencodex) | Universal provider proxy for OpenAI Codex & Claude Code — swap in any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) across CLI, App, and SDK. | ![](https://img.shields.io/github/stars/Saka-CS/opencodex?style=flat-square&logo=github&label=&color=C41E3A) |
-| [`ima2-gen`](https://github.com/Saka-CS/ima2-gen) | Minimal CLI + web UI for GPT Image 2 generation. Dual auth (API key or ChatGPT OAuth), text-to-image, image-to-image, parallel batches. | ![](https://img.shields.io/github/stars/Saka-CS/ima2-gen?style=flat-square&logo=github&label=&color=C41E3A) |
-| [`agbrowse`](https://github.com/Saka-CS/agbrowse) | Browser automation toolkit for AI agents. Zero MCP token tax, JS evaluate, vision-click with DPR correction. | ![](https://img.shields.io/github/stars/Saka-CS/agbrowse?style=flat-square&logo=github&label=&color=C41E3A) |
-| [`cli-jaw`](https://github.com/Saka-CS/cli-jaw) | 2-line install personal AI assistant. 11 runtime surfaces, 200+ skills, zero ban risk. | ![](https://img.shields.io/github/stars/Saka-CS/cli-jaw?style=flat-square&logo=github&label=&color=C41E3A) |
-| [`codexclaw`](https://github.com/Saka-CS/codexclaw) | Dev discipline + multi-model subagents for OpenAI Codex — 13 skills, PABCD workflow, repo map, recall. Single plugin. | ![](https://img.shields.io/github/stars/Saka-CS/codexclaw?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`learning-odoo`](https://github.com/Saka-CS/learning-odoo) | Odoo learning workspace — Docker Compose + uv venv, module scaffolding and dev server setup for custom addons. | ![](https://img.shields.io/github/stars/Saka-CS/learning-odoo?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`FastAPI_tables`](https://github.com/Saka-CS/FastAPI_tables) | Restaurant table booking API — FastAPI + SQLModel + Postgres, JWT auth, admin/restaurateur/user routers, Alembic migrations and pytest suite. | ![](https://img.shields.io/github/stars/Saka-CS/FastAPI_tables?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`saka-cs.github.io`](https://github.com/Saka-CS/saka-cs.github.io) | Personal portfolio — vanilla HTML/CSS/JS + Webpack, glassmorphism UI, AJAX Formspree contact. | ![](https://img.shields.io/github/stars/Saka-CS/saka-cs.github.io?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`Arch-Personal-Setup`](https://github.com/Saka-CS/Arch-Personal-Setup) | Scripts that make configuring a new Omarchy Arch install much simpler. | ![](https://img.shields.io/github/stars/Saka-CS/Arch-Personal-Setup?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`my-dotconfig-bare-repo`](https://github.com/Saka-CS/my-dotconfig-bare-repo) | Bare-repo dotfiles for Hyprland, Neovim, Ghostty, Kanata — replicate on any machine with one checkout. | ![](https://img.shields.io/github/stars/Saka-CS/my-dotconfig-bare-repo?style=flat-square&logo=github&label=&color=C41E3A) |
+| [`mouse_usage_damage`](https://github.com/Saka-CS/mouse_usage_damage) | Fun Python tracker that counts mouse “uses” and plays a damage sound for every use. | ![](https://img.shields.io/github/stars/Saka-CS/mouse_usage_damage?style=flat-square&logo=github&label=&color=C41E3A) |
 
 </div>
-
-<br/>
 <br/>
 
 **Dev Environment**&nbsp;&nbsp;
